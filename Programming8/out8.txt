@@ -1,0 +1,7 @@
+Set size = 20
+Set of words containing the letter a:
+[(Barrett), A, Around, Astronomy, Dan, Floating, Miranda, Saturn,, Stairway, Stars, Titan,, Titania., a, and, blam., can, dare, flap,, scare, waters]
+
+Map size = 8
+Map of word lengths containing the letter a:
+{1=[A, a], 3=[Dan, and, can], 4=[dare], 5=[Stars, blam., flap,, scare], 6=[Around, Titan,, waters], 7=[Miranda, Saturn,], 8=[Floating, Stairway, Titania.], 9=[(Barrett), Astronomy]}

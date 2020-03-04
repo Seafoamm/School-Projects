@@ -1,0 +1,10 @@
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\bin\Debug\CreditTracker.exe.config
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\bin\Debug\CreditTracker.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\bin\Debug\CreditTracker.pdb
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\obj\Debug\CreditTracker.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\obj\Debug\CreditTracker.frmCreditTracker.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\obj\Debug\CreditTracker.Properties.Resources.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\obj\Debug\CreditTracker.csproj.GenerateResource.Cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\obj\Debug\CreditTracker.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\obj\Debug\CreditTracker.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CreditTracker\CreditTracker\obj\Debug\CreditTracker.pdb

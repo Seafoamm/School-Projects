@@ -1,0 +1,10 @@
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\bin\Debug\CheckingAccountClasses.exe.config
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\bin\Debug\CheckingAccountClasses.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\bin\Debug\CheckingAccountClasses.pdb
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\obj\Debug\CheckingAccountClasses.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\obj\Debug\CheckingAccountClasses.frmCheckingAccountClasses.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\obj\Debug\CheckingAccountClasses.Properties.Resources.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\obj\Debug\CheckingAccountClasses.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\obj\Debug\CheckingAccountClasses.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\obj\Debug\CheckingAccountClasses.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountClasses\CheckingAccountClasses\obj\Debug\CheckingAccountClasses.pdb

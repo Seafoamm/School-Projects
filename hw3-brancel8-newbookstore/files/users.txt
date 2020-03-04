@@ -1,0 +1,60 @@
+###################################
+# Users files.                    #
+# It is not a good idea to store  #
+# passwords in a plain text file. #
+# We do it here to keep the       #
+# application simple.             #
+#                                 #
+# uwnetid;passwd;campus           #
+###################################
+
+asdf;Bothell Bookstore;asdf
+ASDF;Bothell Bookstore;ASDF
+ASDF;Bothell Bookstore;ASDF
+ASDF;Bothell Bookstore;ASDF
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+ASDF;Bothell Bookstore;ASDF
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+ASDF;Bothell Bookstore;ASDF
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+ASDF;Bothell Bookstore;ASDF
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf
+asdf;Bothell Bookstore;asdf

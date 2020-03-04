@@ -1,0 +1,9 @@
+#place an * in front of the campus that the application should start with.
+#There should be no space in between the * and the campus name. 
+#if multiple campuses have an *, the last one read will become the start campus. 
+#PA#3 PROBLEM 1.C 
+# CHANGED CAMPUS NAMES TO POSTFIX "BOOKSTORE,
+# REMOVED SEATLLE BOOKSTORE (1.F)
+#ALSO CHANGED FILENAMES
+Bothell Bookstore
+Tacoma Bookstore

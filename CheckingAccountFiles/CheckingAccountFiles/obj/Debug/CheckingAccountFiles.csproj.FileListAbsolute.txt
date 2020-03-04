@@ -1,0 +1,10 @@
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\obj\Debug\CheckingAccountFiles.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\obj\Debug\CheckingAccountFiles.Properties.Resources.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\obj\Debug\CheckingAccountFiles.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\obj\Debug\CheckingAccountFiles.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\bin\Debug\CheckingAccountFiles.exe.config
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\bin\Debug\CheckingAccountFiles.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\bin\Debug\CheckingAccountFiles.pdb
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\obj\Debug\CheckingAccountFiles.frmCheckingAccountFiles.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\obj\Debug\CheckingAccountFiles.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\CheckingAccountFiles\CheckingAccountFiles\obj\Debug\CheckingAccountFiles.pdb

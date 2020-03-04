@@ -1,0 +1,10 @@
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\bin\Debug\TransactionStructure.exe.config
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\bin\Debug\TransactionStructure.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\bin\Debug\TransactionStructure.pdb
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\obj\Debug\TransactionStructure.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\obj\Debug\TransactionStructure.frmTransactionStructure.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\obj\Debug\TransactionStructure.Properties.Resources.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\obj\Debug\TransactionStructure.csproj.GenerateResource.Cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\obj\Debug\TransactionStructure.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\obj\Debug\TransactionStructure.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\TransactionStructure\TransactionStructure\obj\Debug\TransactionStructure.pdb

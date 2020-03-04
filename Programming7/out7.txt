@@ -1,0 +1,26 @@
+Original List[unsorted]:
+Circle1 [Radius : 4.40] Area: 60.82
+Rectangle1 [Length: 2.50, Width: 3.00] Area: 7.50
+Triangle1[SideA: 2.50, SideB: 3.00, SideC: 4.00] Area: 3.75
+Circle2 [Radius : 2.50] Area: 19.63
+Circle3 [Radius : 1.00] Area: 3.14
+Rectangle2 [Length: 3.00, Width: 5.00] Area: 15.00
+Circle4 [Radius : 1.00] Area: 3.14
+
+Copied List[sorted]: 
+Circle5 [Radius : 4.40] Area: 60.82
+Circle6 [Radius : 2.50] Area: 19.63
+Circle7 [Radius : 1.00] Area: 3.14
+Circle8 [Radius : 1.00] Area: 3.14
+Rectangle4 [Length: 3.00, Width: 5.00] Area: 15.00
+Rectangle3 [Length: 2.50, Width: 3.00] Area: 7.50
+Triangle2[SideA: 2.50, SideB: 3.00, SideC: 4.00] Area: 3.75
+
+Original List[unsorted]:
+Circle1 [Radius : 4.40] Area: 60.82
+Rectangle1 [Length: 2.50, Width: 3.00] Area: 7.50
+Triangle1[SideA: 2.50, SideB: 3.00, SideC: 4.00] Area: 3.75
+Circle2 [Radius : 2.50] Area: 19.63
+Circle3 [Radius : 1.00] Area: 3.14
+Rectangle2 [Length: 3.00, Width: 5.00] Area: 15.00
+Circle4 [Radius : 1.00] Area: 3.14

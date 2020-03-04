@@ -1,0 +1,10 @@
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\obj\Debug\StudentForm.csprojAssemblyReference.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\obj\Debug\StudentForm.StudentForm.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+C:\Users\Brandon\Desktop\rs\visualstudioprojects\projects\StudentForm\StudentForm\obj\Debug\StudentForm.pdb

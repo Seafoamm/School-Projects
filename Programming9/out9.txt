@@ -1,0 +1,19 @@
+The top 5 AnagramFamilies: 
+[spear, spare, reaps, rapes, presa, prase, pears, parse, pares, asper, apres, apers]
+[talers, stelar, staler, slater, salter, ratels, laster, estral, artels, alters, alerts]
+[tesla, teals, tales, taels, stela, steal, stale, slate, setal, least]
+[spacer, secpar, scrape, recaps, parsec, pacers, escarp, crapes, capers]
+[stearin, stainer, retsina, retinas, retains, ratines, nastier, antsier, anestri]
+
+All AnagramFamilies with size 8: 
+[traces, recast, reacts, crates, caters, caster, cartes, carets]
+[seringa, searing, reginas, regains, reagins, gainers, erasing, earings]
+[spale, sepal, salep, pleas, peals, pales, leaps, lapse]
+[seral, reals, rales, lears, laser, lares, earls, arles]
+[spears, sparse, spares, repass, prases, passer, parses, aspers]
+[teas, seta, seat, sate, etas, eats, east, ates]
+[treens, ternes, tenser, resent, rentes, renest, nester, enters]
+[spire, spier, speir, ripes, prise, pries, piers, peris]
+
+The last AnagramFamily: 
+[xu]
