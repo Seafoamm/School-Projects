@@ -1,0 +1,15 @@
+% java Tester eeyjjjj
+================================
+char     frequency     code
+--------------------------------
+e        2             01
+y        1             00
+j        4             1
+================================
+Encoded bit stream: 
+0101001111
+
+Total number of bits without Huffman coding (8-bits per character): 56
+Total number of bits with Huffman coding: 10
+Compression Ratio: 5.6
+Decoded String: eeyjjjj
